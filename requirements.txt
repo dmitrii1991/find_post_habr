@@ -1,4 +1,4 @@
 psutil==5.6.7
 pytz==2019.3
-requests==2.22.0
+requests==2.31.0
 XlsxWriter==1.2.7
